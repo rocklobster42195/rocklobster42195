@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Boris!
 
-<!--
-**rocklobster42195/rocklobster42195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Sports Scientist** and **Sports Development Planner** who believes that data and technology can build a healthier future. I combine a professional background in large-scale sports strategy with a passion for endurance sports and coding.
 
-Here are some ideas to get you started:
+### Professional Life
+In my daily work as a **Sports Development Planner**, I design the future of sports infrastructure and analyze activity patterns to create a **healthier life** for the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before focusing on urban infrastructure, I was one of the "fathers" of **[CHECK'D](https://www.duesseldorf.de/sportamt/checkd)** – the *Düsseldorfer Modell* for motor development and talent promotion. It is a pioneering project where sports science meets educational practice:
+- **Focus:** Systematic motor diagnostics and individual support for thousands of children.
+- **Impact:** Bridging the gap between scientific research and practical sports promotion in schools and clubs.
+
+### Smart Home & Home Assistant
+While I use data for sports by day, I use it for my home by night. I am a huge Home Assistant enthusiast, but I have a confession: **I really don't like YAML.** 
+
+To solve this, I’m currently developing:
+**JS Automations**  
+*A JavaScript engine for Home Assistant.*  
+
+I built this because I wanted the full power of JavaScript for my home logic instead of wrestling with YAML indentations. 
+> **Status:** The system is already running stably in my own home, and I am currently preparing the **Pre-Release**. I’m "polishing" the code and the installation process to make it easy for others to use. Stay tuned for the first public version!
+
+### Passion: Endurance
+I am a passionate **endurance athlete**. Whether it's a long run or a challenging ride, I love the grit it takes to go the distance. I bring this same "endurance mindset" to my coding projects – I don't stop until the logic works.
+
+### A Note on my Code...
+Programming is my hobby and my way of solving problems. 
+> **⚠️ Please be merciful:** I am a self-taught hobbyist, not a professional software engineer. My code is built on curiosity and a lot of "trial and error." I’m learning in public, so if you see room for improvement, I’m always open to constructive feedback!
