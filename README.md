@@ -16,7 +16,7 @@ To solve this, I’m currently developing:
 **JS Automations**  
 *A JavaScript engine for Home Assistant.*  
 
-I built this because I wanted the full power of JavaScript for my home logic instead of wrestling with YAML indentations. 
+I built this because I wanted the full power of JavaScript for my logic. I tried Node-RED, but for complex automations, I always ended up with everything crammed into a single, messy **Function Node** anyway. So I decided to skip the detour and build a clean JS-native environment instead.
 > **Status:** The system is already running stably in my own home, and I am currently preparing the **Pre-Release**. I’m "polishing" the code and the installation process to make it easy for others to use. Stay tuned for the first public version!
 
 ### Passion: Endurance
