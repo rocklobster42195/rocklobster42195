@@ -21,7 +21,3 @@ I built this because I wanted the full power of JavaScript for my logic. I tried
 
 ### Passion: Endurance
 I am a passionate **endurance athlete**. Whether it's a long run or a challenging ride, I love the grit it takes to go the distance. I bring this same "endurance mindset" to my coding projects – I don't stop until the logic works.
-
-### A Note on my Code...
-Programming is my hobby and my way of solving problems. 
-> **⚠️ Please be merciful:** I am a self-taught hobbyist, not a professional software engineer. My code is built on curiosity and a lot of "trial and error." I’m learning in public, so if you see room for improvement, I’m always open to constructive feedback!
