@@ -5,7 +5,7 @@ I am a **Sports Scientist** and **Sports Development Planner** who believes that
 ### Professional Life
 In my daily work as a **Sports Development Planner**, I design the future of sports infrastructure and analyze activity patterns to create a **healthier life** for the community.
 
-Before focusing on urban infrastructure, I was one of the "fathers" of **[CHECK'D](https://www.duesseldorf.de/sportamt/checkd)** – the *Düsseldorfer Modell* for motor development and talent promotion. It is a pioneering project where sports science meets educational practice:
+Before focusing on urban infrastructure, I was one of the "fathers" of **[CHECK'D](https://www.duesseldorf.de/sportamt/duesseldorfer-modell-der-bewegungs-sport-talentfoerderung)** – the *Düsseldorfer Modell* for motor development and talent promotion. It is a pioneering project where sports science meets educational practice:
 - **Focus:** Systematic motor diagnostics and individual support for thousands of children.
 - **Impact:** Bridging the gap between scientific research and practical sports promotion in schools and clubs.
 
